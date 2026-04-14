@@ -13,6 +13,13 @@ tags: IOS_GratisBeta_Success
 * Profil tabina tiklanir
  Profil tabindan Giris yap butonuna tıklanır
 
+IOS_GratisBeta_SuccessWait
+-----
+tags: IOS_GratisBeta_SuccessWait
+* Beta uygulaması izinler onaylanır
+* "420" saniye bekle
+* Profil tabina tiklanir
+
 IOS_GratisBeta_Fail
 -----
 tags: IOS_GratisBeta_Fail
