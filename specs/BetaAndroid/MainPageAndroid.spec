@@ -15,13 +15,13 @@ AND_GratisBeta_Success_MultiSc
 ----------------
 tags: AND_GratisBeta_Success_MultiSc
 * Beta uygulaması izinler onaylanır
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
-* Profil tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
+* Baslik tabina tiklanir (ANDROID)
 * Profil tabina tiklanir (ANDROID)
 
 
