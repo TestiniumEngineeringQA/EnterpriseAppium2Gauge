@@ -11,6 +11,19 @@ tags: AND_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
 * Profil tabina tiklanir (ANDROID)
 
+AND_GratisBeta_Success_MultiSc
+----------------
+tags: AND_GratisBeta_Success_MultiSc
+* Beta uygulaması izinler onaylanır
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+* Profil tabina tiklanir (ANDROID)
+
 
 AND_GratisBeta_Fail
 ----------------
