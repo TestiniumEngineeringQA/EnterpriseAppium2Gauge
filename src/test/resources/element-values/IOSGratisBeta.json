@@ -40,6 +40,13 @@
     "androidType": "",
     "iosValue": "profileLoginRegisterBtn",
     "iosType": "accessibilityId"
+  },
+  {
+    "key": "pegasusNextBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Sonraki\"`]",
+    "iosType": "classChain"
   }
 
 ]

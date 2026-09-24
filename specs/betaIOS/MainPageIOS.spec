@@ -11,7 +11,12 @@ IOS_GratisBeta_Success
 tags: IOS_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
 * Profil tabina tiklanir
- Profil tabindan Giris yap butonuna tıklanır
+
+IOS_Butterfly_Success
+-----
+ tags: IOS_Buttefly_Success
+ * Beta uygulaması izinler onaylanır
+ * Sonraki tabina tiklanir
 
 IOS_GratisBeta_SuccessWait
 -----
